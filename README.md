@@ -1,5 +1,7 @@
 # MSCS-Undergraduate-Research-Laboratory-MURL---Machine-Learning-chess-and-mathematics
 
+Report Link: https://gamma.app/docs/Chess-AI-Evolution-Gourav-Pal-Progress-Report-4yg815k1ktyev15
+
 A unified research and teaching repository exploring adversarial search algorithms, game-theoretic decision making, and Monte-Carlo–based planning through three progressively complex domains:
 
 The Stick Game — a minimal environment for learning Minimax & Alpha–Beta Pruning
