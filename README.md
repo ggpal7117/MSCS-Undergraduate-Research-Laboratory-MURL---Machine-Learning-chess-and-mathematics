@@ -1,7 +1,7 @@
 # MSCS-Undergraduate-Research-Laboratory-MURL---Machine-Learning-chess-and-mathematics
 
 Report Link: https://gamma.app/docs/Chess-AI-Evolution-Gourav-Pal-Progress-Report-4yg815k1ktyev15
-Group Poster is attached to the repository.
+The official group poster is attached to the repository.
 
 A unified research and teaching repository exploring adversarial search algorithms, game-theoretic decision making, and Monte-Carlo–based planning through three progressively complex domains:
 
